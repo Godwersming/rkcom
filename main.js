@@ -148,4 +148,4 @@ bot.on("guildMemberAdd", member => {
     welcomeChannel.send (`Welcome! ${member}`)
 })
 
-bot.login("NzQ4NTkzNDYyNDEyMDUwNTA1.X0fr_Q.6QMKJWfjUPcc37U2EXA1L5amBgU")
+bot.login("XXX")
